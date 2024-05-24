@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eden Grandclaude</h1>
+<h1 align="center">Hi 👋, I'm Eden </h1>
 <h3 align="center">A passionate economics student exploring the fascinating world of finance and data science.</h3>
 
 - 👨‍💻 All of my projects are available at [https://edengrandclaude.wixsite.com/my-site](https://edengrandclaude.wixsite.com/my-site)
